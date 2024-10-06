@@ -3,7 +3,6 @@
 This interactive Sales Dashboard provides a detailed and comprehensive overview of sales and profit performance for the years 2023, 2022, 2021, and 2020. The dashboard is designed to offer actionable insights into key metrics, trends, and year-over-year comparisons. Users can filter data based on selected parameters, such as year, and the dashboard dynamically updates to reflect the chosen time period, providing an efficient way to track performance.
 
 
-### Dashboard Link : 
 
 ## Problem Statement
 The task was to create an interactive dashboard that tracks Key Performance Indicators (KPIs) and visualizes sales and profit data across multiple years. The dashboard must enable users to filter data by year, location, and product categories, and automatically update based on selected filters. The ultimate goal is to allow users to make data-driven decisions by comparing metrics such as sales and profits, both on an aggregate level and by subcategories
